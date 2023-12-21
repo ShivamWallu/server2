@@ -1,8 +1,7 @@
 import os
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
-from llama_index import SimpleDirectoryReader, LLMPredictor, PromptHelper, ServiceContext
-from llama_index import GPTVectorStoreIndex
+from llama_index import SimpleDirectoryReader,GPTVectorStoreIndex, LLMPredictor, PromptHelper, ServiceContext
 from langchain import OpenAI
 import requests
 import json.decoder
