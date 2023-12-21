@@ -2,7 +2,7 @@ import os
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from llama_index import SimpleDirectoryReader,GPTVectorStoreIndex, LLMPredictor, PromptHelper, ServiceContext
-from langchain import OpenAI
+from langchain.llms import OpenAI
 import requests
 import json.decoder
 import logging
