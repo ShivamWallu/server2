@@ -1,7 +1,8 @@
 import os
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
-from llama_index import SimpleDirectoryReader, GPTSimpleVectorIndex, LLMPredictor, PromptHelper, ServiceContext
+from llama_index import SimpleDirectoryReader, LLMPredictor, PromptHelper, ServiceContext
+from llama_index import GPTVectorStoreIndex
 from langchain import OpenAI
 import requests
 import json.decoder
@@ -37,7 +38,7 @@ def construct_index(directory_path):
 
     documents = SimpleDirectoryReader(directory_path).load_data()
     service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor, prompt_helper=prompt_helper)
-    index = GPTSimpleVectorIndex.from_documents(documents, service_context=service_context)
+    index = GPTVectorStoreIndex.from_documents(documents, service_context=service_context)
 
     index.save_to_disk('index.json')
 
@@ -51,7 +52,7 @@ def ask_ai():
         if request.is_json:
             query = request.json.get('query')
             if query:
-                index = GPTSimpleVectorIndex.load_from_disk('index.json')
+                index = GPTVectorStoreIndex.load_from_disk('index.json')
                 response = index.query(query)
                 return jsonify({'response': response.response})
             else:
@@ -92,7 +93,7 @@ def test_ask_ai():
 def ask_ai_function(query):
     try:
         if query:
-            index = GPTSimpleVectorIndex.load_from_disk('index.json')
+            index = GPTVectorStoreIndex.load_from_disk('index.json')
             response = index.query(query)
             return {'response': response.response}
         else:
