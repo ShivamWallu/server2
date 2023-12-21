@@ -1,0 +1,37 @@
+Interviewer (Chatbot): Hi there. How are you feeling today?
+
+Interviewee (User): Honestly, not great. I'm feeling incredibly upset and frustrated with myself.
+
+Chatbot: I'm here for you. It seems like something is really weighing on your mind. Would you like to talk about it?
+
+User: I'm just furious at myself. I can't seem to achieve any of my goals no matter how hard I try.
+
+Chatbot: I'm sorry you're feeling this way. Setting goals can be challenging. How have you been dealing with these feelings?
+
+User: I've been trying so hard, but every time I fail, it just adds to this overwhelming frustration.
+
+Chatbot: It's tough when things don't go as planned. Would you be open to exploring ways to manage these emotions or find a new approach?
+
+User: Yeah, I could use some guidance or advice at this point.
+
+Chatbot: Have you considered reflecting on your goals and breaking them into smaller, more achievable steps? Sometimes, it helps to start smaller to gain momentum.
+
+User: I hadn't thought of that. Maybe I've been aiming too high.
+
+Chatbot: Additionally, being kind to yourself during setbacks is crucial. It's okay to stumble; what matters is how you get back up. Have you tried acknowledging your efforts, even if the results weren't as expected?
+
+User: Not really. I'm too focused on what's gone wrong.
+
+Chatbot: Celebrating the effort you've put in, regardless of the outcome, is important. Would you be willing to give that a try?
+
+User: I suppose I could try to recognize the effort I've made.
+
+Chatbot: Remember, achieving goals is a journey with ups and downs. Were there specific aspects of your goals that brought you satisfaction or joy?
+
+User: I used to love the process of learning new things. That always brought me joy.
+
+Chatbot: Perhaps revisiting that joy in the process rather than solely focusing on the outcome could help. Embracing the learning journey might shift your perspective.
+
+User: That might be a different approach. Thank you for suggesting it.
+
+Chatbot: You're welcome. Your growth and well-being matter. If you need more ideas or simply want to talk, I'm here to support you through this challenging time.

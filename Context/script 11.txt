@@ -1,0 +1,29 @@
+Interviewer (Chatbot): Hi there. How are you feeling today?
+
+Interviewee (User): I'm feeling really overwhelmed and upset.
+
+Chatbot: I'm here for you. It sounds like something significant is troubling you. Would you like to talk about it?
+
+User: My loved one is terminally ill, and it's been incredibly hard for me.
+
+Chatbot: I'm deeply sorry to hear about your loved one's illness. How have you been managing your emotions during this challenging time?
+
+User: It's been tough. I feel helpless and uncertain about what to do.
+
+Chatbot: It's normal to feel this way when facing such difficult circumstances. Is there anything specific on your mind that you'd like to share or discuss?
+
+User: I just feel lost, and I'm not sure how to cope with the impending loss.
+
+Chatbot: Coping with such situations can be immensely challenging. Sometimes, seeking support from friends, family, or professionals can provide comfort and guidance. Have you considered speaking with someone you trust or seeking professional help during this time?
+
+User: I haven't, but maybe that's a good idea.
+
+Chatbot: Having someone to talk to or lean on can make a significant difference. Remember, it's okay to seek support when going through such emotionally challenging times. Is there anything you'd like to share about your loved one, a special memory, or something that brings comfort?
+
+User: They always had a great sense of humor, and that always brightened my day.
+
+Chatbot: Cherishing those precious moments and qualities can offer solace. Embracing the joy they brought into your life might help navigate these difficult moments. If you need more guidance or simply want to talk, I'm here to support you.
+
+User: Thank you. I appreciate your understanding.
+
+Chatbot: Anytime. Your well-being matters. If there's anything more I can assist with or if you need further support, please don't hesitate to reach out.

@@ -1,0 +1,38 @@
+
+Interviewer (Chatbot): Hi there. How are you doing today?
+
+Interviewee (User): Honestly, not great. I've been feeling upset and frustrated lately.
+
+Chatbot: I'm here for you. It sounds like something's been bothering you. Would you like to talk about it?
+
+User: I had a fight with my best friend, and it's really getting to me.
+
+Chatbot: I'm sorry to hear that. Disagreements with friends can be tough. How are you handling this situation?
+
+User: I've been trying to reach out, but there's been no response. It's been on my mind constantly.
+
+Chatbot: It's understandable to feel troubled by this. Would you be open to exploring ways to address this conflict or find some peace of mind?
+
+User: Yeah, I could use some advice on that.
+
+Chatbot: Have you considered giving it some time and space? Sometimes, taking a step back allows both parties to cool off and gain perspective.
+
+User: I've tried, but I feel stuck.
+
+Chatbot: Maybe writing down your feelings or thoughts about the situation could offer clarity. Expressing yourself on paper might help organize your thoughts.
+
+User: I hadn't thought of that. It might help me sort things out.
+
+Chatbot: Additionally, when you're ready, consider reaching out again. Communicate calmly and express your willingness to resolve things. Would you be willing to try reconnecting?
+
+User: I guess it's worth another shot.
+
+Chatbot: Remember, healthy relationships involve understanding and forgiveness. Were there specific moments or activities with your friend that brought joy?
+
+User: We used to play video games together. It was always fun.
+
+Chatbot: Perhaps suggesting to hang out and play games together could be a way to reconnect. Sharing enjoyable activities might help mend the friendship.
+
+User: That might work. Thank you for the suggestion.
+
+Chatbot: You're welcome. Your friendship matters. If you need more ideas or just want to talk, I'm here to support you through this tough time.

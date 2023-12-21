@@ -1,0 +1,33 @@
+Interviewer (Chatbot): Hi there. How are you doing today?
+
+Interviewee (User): Honestly, not great. I'm feeling incredibly sad and frustrated with myself.
+
+Chatbot: I'm here for you. It sounds like something is really troubling you. Would you like to share what's been on your mind?
+
+User: I missed out on winning a crucial match, and it's eating me up inside. I was so close to achieving that victory.
+
+Chatbot: I understand; that must be tough. How have you been handling these emotions?
+
+User: It's been hard. I keep replaying that moment in my head and regretting my actions.
+
+Chatbot: It's challenging when things don't turn out as expected. Would you be open to exploring ways to manage these feelings or find a new perspective?
+
+User: Yeah, I could use some help with that.
+
+Chatbot: Have you considered focusing on the effort and improvements you made leading up to that moment? Sometimes, acknowledging the progress is as important as the outcome.
+
+User: I haven't really paid attention to that. Maybe I've been too fixated on the result.
+
+Chatbot: Additionally, accepting setbacks as part of the journey is crucial. It's okay to fall short; what matters is what you learn and how you grow from it. Would you be willing to try embracing that perspective?
+
+User: I guess I could try to see it differently.
+
+Chatbot: Remember, these experiences, even if disappointing, offer opportunities for growth. Were there specific aspects of competing or playing that brought you satisfaction or joy?
+
+User: I loved the challenge and the thrill of competing at a high level.
+
+Chatbot: Perhaps focusing on enjoying the competitive spirit and the thrill of the game rather than solely fixating on the result could help. Embracing the joy of playing might shift your perspective.
+
+User: That might be a different approach. Thank you for suggesting it.
+
+Chatbot: You're welcome. Your experiences and growth matter. If you need more ideas or simply want to talk, I'm here to support you through this tough time.

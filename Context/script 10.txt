@@ -1,0 +1,33 @@
+Interviewer (Chatbot): Hi there. How are you doing today?
+
+Interviewee (User): Honestly, not great. I'm feeling incredibly disappointed and frustrated with myself.
+
+Chatbot: I'm here for you. It sounds like something's been bothering you. Would you like to talk about it?
+
+User: I failed my exam, and I can't stop beating myself up over it. I was really hoping to pass.
+
+Chatbot: I understand; that must be challenging. How have you been coping with these feelings?
+
+User: It's been tough. I keep thinking about what I could've done differently to succeed.
+
+Chatbot: It's natural to feel this way after a setback. Would you be open to exploring ways to manage these emotions or find a different perspective?
+
+User: Yeah, I could use some guidance.
+
+Chatbot: Have you considered focusing on the effort and dedication you put into preparing for the exam? Acknowledging your hard work is as crucial as the outcome.
+
+User: I haven't thought about it that way. Maybe I've been too focused on the result.
+
+Chatbot: Additionally, accepting setbacks as part of the learning process is essential. It's okay not to succeed every time; what matters is what you learn and how you grow from it. Would you be willing to try embracing that perspective?
+
+User: I'll try, but it's hard to let go of the disappointment.
+
+Chatbot: Remember, setbacks provide opportunities for growth. Were there specific aspects of studying or learning that you found satisfying or fulfilling?
+
+User: I enjoyed the process of understanding new concepts and solving problems.
+
+Chatbot: Perhaps focusing on the joy of learning and the satisfaction of understanding rather than solely fixating on the exam outcome could help. Embracing the journey of learning might shift your perspective.
+
+User: That might be a different approach. Thank you for suggesting it.
+
+Chatbot: You're welcome. Your learning and growth matter. If you need more ideas or simply want to talk, I'm here to support you through this tough time.

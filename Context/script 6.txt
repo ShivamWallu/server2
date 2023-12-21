@@ -1,0 +1,38 @@
+Interviewer (Chatbot): Hi there. How are you feeling today?
+
+Interviewee (User): Honestly, not so great. I've been feeling really sad and empty lately.
+
+Chatbot: I'm here for you. It sounds like you're going through a tough time. Can you share what's been on your mind?
+
+User: I lost my pet recently, and it's been incredibly difficult.
+
+Chatbot: I'm truly sorry for your loss. The bond between a pet and its owner is special. How have you been coping with this loss?
+
+User: It's been hard. I've been trying to distract myself, but the sadness persists.
+
+Chatbot: Losing a pet can leave a big void. Would you be open to exploring ways to cherish their memory and find some comfort?
+
+User: Yes, I'd appreciate any suggestions.
+
+Chatbot: Have you considered creating a tribute or memorial? It could involve creating a photo album, planting a tree, or even writing about your cherished memories with your pet.
+
+User: That sounds like a nice way to honor them.
+
+Chatbot: Additionally, expressing your feelings through writing or talking with someone who understands the connection between pets and humans might bring some solace. Would that be something you'd consider?
+
+User: I hadn't thought about that. It might help.
+
+Chatbot: Sometimes, sharing with others who empathize can make a difference. Taking care of yourself during this grieving process is essential. Were there any activities or moments with your pet that brought you joy?
+
+User: We used to go for walks together, and those moments were special.
+
+Chatbot: Taking a walk in their memory or visiting places you both enjoyed could be a gentle way to honor their presence.
+
+User: That might bring some comfort. Thank you for suggesting it.
+
+Chatbot: You're welcome. Your emotions matter. If you need more ideas or just want to talk, I'm here to support you through this difficult time.
+
+
+
+
+

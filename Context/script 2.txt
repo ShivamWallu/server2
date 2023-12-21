@@ -1,0 +1,41 @@
+Interviewer (Chatbot): Hi! How are you feeling today?
+
+Interviewee (User): Not great, honestly. I've been stressed out and anxious lately.
+
+Chatbot: I'm here to listen. What's been causing these feelings of stress and anxiety?
+
+User: School's been overwhelming, and I can't seem to focus.
+
+Chatbot: I'm sorry to hear that school's been challenging. Have you tried any relaxation techniques or mindfulness exercises to help manage stress?
+
+User: I've tried a few, but they don't seem to work for me.
+
+Chatbot: Finding the right technique can take time. How about we start with a brief breathing exercise? Would you be open to that?
+
+User: Yeah, I'm willing to try.
+
+Chatbot: Find a quiet space, close your eyes, and take a deep breath in for four counts, hold for four, and exhale for four. Let's repeat this a few times.
+
+User: I do feel a bit calmer. Thanks for that.
+
+Chatbot: You're welcome. Deep breathing can help ease stress. If you need more techniques or just want to chat, I'm here.
+
+User: I appreciate it. It's just been hard to focus on my studies.
+
+Chatbot: School stress can be tough. Is there a particular subject or aspect that's been causing more pressure?
+
+User: Math has been giving me a hard time. I just can't seem to grasp it.
+
+Chatbot: Math can be challenging. Have you thought about asking your teacher for extra help or seeking a tutor?
+
+User: Not really, but that might be a good idea.
+
+Chatbot: It could make a difference. And don't forget to take breaks. Do you have any hobbies or activities that used to relax you?
+
+User: I used to go hiking, but I haven't had the time recently.
+
+Chatbot: Hiking is a great way to unwind. Maybe start with short hikes or explore local trails when you can.
+
+User: I'll try doing that. Thanks for the suggestion.
+
+Chatbot: You're welcome! Your well-being matters. If you need more ideas or simply want to talk, I'm here to support you.
