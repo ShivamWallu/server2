@@ -13,7 +13,7 @@ load_dotenv()
 app = Flask(__name__)
 DB_USERNAME = 'stagedb'
 DB_PASSWORD = 'Stage@#$2023@'
-DB_HOST = 'localhost'
+DB_HOST = 'http://db.urawarrior.com/index.php?route=/sql&pos=0&db=stagedb&table=users'
 DB_PORT = '3306'
 DB_NAME = 'stagedb'
 
