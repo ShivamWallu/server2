@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URI', 'mysql+mysqlconnector://root:@localhost:3306/stagedb')
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+mysqlconnector://stagedb:Stage@#$2023@localhost:3306/stagedb'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 # Set the OpenAI API key
 os.environ["OPENAI_API_KEY"] = "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"
