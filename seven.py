@@ -17,7 +17,6 @@ DB_HOST = 'localhost'
 DB_PORT = '3306'
 DB_NAME = 'stagedb'
 
-app.config['SQLALCHEMY_DATABASE_URI'] = f"mysql+mysqlconnector://stagedb:Stage@#$2023@localhost:3306/stagedb"
 app.config['SQLALCHEMY_DATABASE_URI'] = f"mysql+mysqlconnector://{os.getenv('stagedb')}:{os.getenv('Stage@#$2023@')}@{os.getenv('localhost')}:{os.getenv('3306')}/{os.getenv('stagedb')}"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 os.environ["OPENAI_API_KEY"] = "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"
