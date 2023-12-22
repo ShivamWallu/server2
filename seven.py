@@ -19,7 +19,6 @@ DB_NAME = 'stagedb'
 
 app.config['SQLALCHEMY_DATABASE_URI'] = f"mysql+mysqlconnector://stagedb:Stage@#$2023@localhost:3306/stagedb"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-# Set the OpenAI API key
 os.environ["OPENAI_API_KEY"] = "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"
 
 db = SQLAlchemy(app)
