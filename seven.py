@@ -118,4 +118,4 @@ def get_user_fname():
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
     get_index()
-    app.run(debug=True, host='65.0.101.115', port=8501)
+    app.run(debug=True, host='0.0.0.0', port=8501)
