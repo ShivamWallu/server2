@@ -1,4 +1,5 @@
 import os
+import urllib.parse
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from llama_index import SimpleDirectoryReader,GPTVectorStoreIndex, LLMPredictor, PromptHelper, ServiceContext
