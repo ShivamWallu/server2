@@ -13,11 +13,12 @@ load_dotenv()
 app = Flask(__name__)
 DB_USERNAME = 'stagedb'
 DB_PASSWORD = 'Stage@#$2023@'
+encoded_password = urllib.parse.quote_plus(DB_PASSWORD)
 DB_HOST = '44.217.100.212'
 DB_PORT = '3306'
 DB_NAME = 'stagedb'
 
-app.config['SQLALCHEMY_DATABASE_URI'] = f"mysql+mysqlconnector://{DB_USERNAME}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+app.config['SQLALCHEMY_DATABASE_URI'] = f"mysql+mysqlconnector://{DB_USERNAME}:{encoded_password}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 os.environ["OPENAI_API_KEY"] = "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"
 
