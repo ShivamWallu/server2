@@ -72,7 +72,58 @@ def ask_ai():
         logging.error(f"Error processing ask_ai request: {str(e)}")
         return jsonify({'error': 'Internal Server Error'})
     
-# ... (test_ask_ai, ask_ai_function, get_user_fname functions remain the same)
+@app.route('/test_ask_ai', methods=['GET'])
+def test_ask_ai():
+    try:
+        query = request.args.get('query', 'i am feeling sad please help me')
+        response = ask_ai_function(query)
+
+        if isinstance(response, dict):
+            with app.app_context():
+                db.create_all()
+                user = User.query.first()
+                fname = user.fname if user else None
+                greeting = f"Hi {fname}," if fname else ""        
+                
+                return jsonify({
+                    'query': query,
+                    'response': {'response': greeting + response['response']},
+                    'fname': fname,
+                })
+        else:
+            return jsonify({'error': 'Invalid response'})
+    
+    except json.decoder.JSONDecodeError:
+        return jsonify({'error': 'Failed to decode JSON response'})
+    except Exception as e:
+        logging.error(f"Error processing test_ask_ai request: {str(e)}")
+        return jsonify({'error': 'Internal Server Error'})
+
+def ask_ai_function(query):
+    try:
+        if query:
+            storage_context = StorageContext.from_defaults(persist_dir='index.json')
+            index = load_index_from_storage(storage_context)
+            response = index.query(query)
+            return {'response': response.response}
+        else:
+            return {'error': 'Query parameter not found'}
+    except Exception as e:
+        logging.error(f"Error processing ask_ai request: {str(e)}")
+        return {'error': 'Internal Server Error'}
+
+@app.route('/get_user_fname', methods=['GET'])
+def get_user_fname():
+    try:
+        with app.app_context():
+            db.create_all()
+            user = User.query.first()
+            fname = user.fname if user else None
+            
+        return jsonify({'fname': fname})
+    except Exception as e:
+        logging.error(f"Error retrieving user's first name: {str(e)}")
+        return jsonify({'error': 'Internal Server Error'})
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
