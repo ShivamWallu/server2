@@ -1,4 +1,7 @@
 import os
+
+os.environ["OPENAI_API_KEY"] = "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"
+
 import urllib.parse
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
@@ -21,7 +24,7 @@ DB_NAME = 'stagedb'
 
 app.config['SQLALCHEMY_DATABASE_URI'] = f"mysql+mysqlconnector://{DB_USERNAME}:{encoded_password}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-os.environ["OPENAI_API_KEY"] = "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"
+
 
 db = SQLAlchemy(app)
 
